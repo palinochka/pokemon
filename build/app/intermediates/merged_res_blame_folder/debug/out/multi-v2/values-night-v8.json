@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nikolajgulaev/StudioProjects/pokemons_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/nikolajgulaev/StudioProjects/pokemon/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/nikolajgulaev/StudioProjects/pokemons_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/nikolajgulaev/StudioProjects/pokemon/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

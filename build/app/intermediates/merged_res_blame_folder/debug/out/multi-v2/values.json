@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nikolajgulaev/StudioProjects/pokemons_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/nikolajgulaev/StudioProjects/pokemon/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/nikolajgulaev/StudioProjects/pokemons_app/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/nikolajgulaev/StudioProjects/pokemon/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nikolajgulaev/StudioProjects/pokemons_app/android/app/src/main/res/values/colors.xml",
+                    "source": "/Users/nikolajgulaev/StudioProjects/pokemon/android/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

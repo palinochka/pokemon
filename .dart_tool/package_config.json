@@ -548,13 +548,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "pokemons_app",
+      "name": "pokemon",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-11-26T18:58:00.557089Z",
+  "generated": "2022-11-26T20:23:57.936096Z",
   "generator": "pub",
   "generatorVersion": "2.18.5"
 }
